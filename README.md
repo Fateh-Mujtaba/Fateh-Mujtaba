@@ -1,5 +1,5 @@
 <h1 align="center">I'm Fateh Mujtaba</h1>
-<h3 align="center">A passionate Backend and Machine learning developer</h3>
+<h3 align="center">A passionate Backend and Machine learning engineer</h3>
 
 - 💬 Ask me about **Python, Tensorflow, matplotlib, numpy, pandas, sciketlearn**
 
