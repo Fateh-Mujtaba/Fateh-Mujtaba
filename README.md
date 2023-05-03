@@ -1,7 +1,7 @@
 <h1 align="center">I'm Fateh Mujtaba</h1>
 <p align="center">A passionate Backend and Machine learning engineer. With a strong foundation in mathematics, statistics, and computer science, I am constantly seeking new opportunities to learn and grow my skills in this field. Whether working on open-source datasets and challenges or developing my own ideas for projects, I am always looking for ways to apply my knowledge and make an impact through the use of machine learning. I also have experience in mobile app development with flutter using dart and Development of desktop applications in java</p>
 
-- 💬 Ask me about **Python, java, Tensorflow, keras, matplotlib, numpy, pandas, sciketlearn, opencv, scikit-image**
+- 💬 Ask me about **Python, java, Tensorflow, keras, matplotlib, numpy, pandas, sciketlearn, opencv, and scikit-image**
 
 - 📫 How to reach me **faatehmujtaba@gmail.com**
 
